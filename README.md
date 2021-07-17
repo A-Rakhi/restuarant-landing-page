@@ -1,5 +1,4 @@
-Live View Link :-  a-rakhi-restuarant-landing-page.netlify.app
-
+Live View Link :-  https://a-rakhi-restuarant-landing-page.netlify.app/
 
 
 
